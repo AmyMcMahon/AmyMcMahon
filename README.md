@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmyMcMahon
 - 👀 I’m interested in Computer Science and coding
-- 🌱 I’m currently learning Computer Science in Secondary School in Ireland and am doign for my leaving Cert. I hope to do Computer Science in Unibversity
+- 🌱 I’m currently studying Immersive Software Engineering in UL
 - 💞️ I’m looking to collaborate on projects where I can learn more about coding and software development
 - 📫 How to reach me ...
 
